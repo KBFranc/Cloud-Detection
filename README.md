@@ -1,4 +1,4 @@
-# Title: Cloud Detection for Remote Sensing with Deep Learning (ED-CNN)
+# Interpretable & Pattern-aware Cloud Segmentation using Feature Semantic Learning
 
 ## Description:
 
@@ -18,3 +18,10 @@ This project tackles the crucial challenge of cloud detection in remote sensing 
 ```$ pip3 install -r requirements.txt```
 
 ## Results:
+![graph1]results/1.jpeg
+![graph2]results/2.jpeg
+![graph3]results/3.jpeg
+![graph4]results/4.jpeg
+
+## Contributing:
+We welcome contributions to this project! Feel free to open pull requests with bug fixes, improvements, or new features.
